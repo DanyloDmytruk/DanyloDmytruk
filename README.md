@@ -1,31 +1,41 @@
 # Hi there 👋
-My name is Danylo Dmytruk and this is my GitHub profile. Here I work at my projects. 
-I like coding web applications and Windows or Linux desktop applications (mostly Windows).
-I have experience in using:
-- PHP
- -- Laravel
- -- PHP Unit
 
-- HTML/CSS, JS
- -- Vue
- -- jQuery
+My name is Danylo Dmytruk, and welcome to my GitHub profile. Here, I work on a variety of projects, focusing on web applications and Windows/Linux desktop applications (with a preference for Windows). I'm passionate about coding and enjoy exploring various technologies and tools.
 
-- Redis, Memcached
+## Skills and Technologies
 
-- MySQL, Postgres
+I have experience with a wide range of technologies, including:
 
+### PHP
+- Laravel
+- PHP Unit
+
+### Web Development
+- HTML/CSS
+- JavaScript
+  - Vue
+  - jQuery
+
+### Databases
+- MySQL
+- Postgres
+- Redis
+- Memcached
+
+### DevOps
 - Docker
-  
 - GIT (and GitHub CI/CD)
-  
-- C/C++
-   -- WinAPI
-   -- STL
-  
-- ASM
-   -- IDA
-   -- x64dbg
 
-- Golang (currently actively learning)
-- Python (it is pretty useful in automatization or quick-coding scripts for small purposes)
+### C/C++
+- WinAPI
+- STL
 
+### Assembly
+- IDA
+- x64dbg
+
+### Learning and Exploring
+- Golang (actively learning)
+- Python (useful for automation and quick scripting)
+
+Feel free to explore my repositories to see projects where I've applied these skills. If you have any questions or would like to collaborate, feel free to reach out. Happy coding!
