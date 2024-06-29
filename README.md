@@ -18,6 +18,8 @@ I have experience with a wide range of technologies, including:
 - JavaScript / TypeScript
   - Vue
   - jQuery
+    
+- WebSockets
 
 ### Databases
 - MySQL / MariaDB
