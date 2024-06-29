@@ -8,16 +8,17 @@ I have experience with a wide range of technologies, including:
 
 ### PHP
 - Laravel
+- Symfony
 - PHP Unit
 
 ### Web Development
-- HTML/CSS
-- JavaScript
+- HTML/CSS (& Bootstrap, Tailwind)
+- JavaScript / TypeScript
   - Vue
   - jQuery
 
 ### Databases
-- MySQL
+- MySQL / MariaDB
 - Postgres
 - Redis
 - Memcached
