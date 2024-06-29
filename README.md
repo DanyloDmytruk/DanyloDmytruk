@@ -12,7 +12,7 @@ I have experience with a wide range of technologies, including:
 - PHP Unit
 
 ### Web Development
-- HTML/CSS (& Bootstrap, Tailwind)
+- HTML/CSS (& Bootstrap, Tailwind, Twig, Blade)
 - JavaScript / TypeScript
   - Vue
   - jQuery
