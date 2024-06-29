@@ -10,6 +10,8 @@ I have experience with a wide range of technologies, including:
 - Laravel
 - Symfony
 - PHP Unit
+- ELK Stack
+- Wordpress
 
 ### Web Development
 - HTML/CSS (& Bootstrap, Tailwind, Twig, Blade)
@@ -26,6 +28,16 @@ I have experience with a wide range of technologies, including:
 ### DevOps
 - Docker
 - GIT (and GitHub CI/CD)
+- RabbitMQ
+- Nginx/Apache2
+- Linux
+
+### E-Commerce 
+- Woocommerce
+- KeyCRM
+- ZohoCRM
+- Have experience in developing own CRMs
+
 
 ### C/C++
 - WinAPI
